@@ -13,6 +13,8 @@ go to the link and after Create an account and log in . Create New Android Proje
 after This You Should go to Android Studio and Write Some Codes 
 According The One Signal 
 DOCUMENTS (https://documentation.onesignal.com/docs/dashboard) and Install Your App ...
+for generate a google server api key go to this (https://documentation.onesignal.com/docs/generate-a-google-server-api-key) or
+this video on youtube (https://www.youtube.com/watch?v=-k292jErDog)
  After That You Can Send New Push To Your Users...
  
  
