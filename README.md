@@ -8,14 +8,13 @@ Test For Push Notifications With One Signal and Pushe Services
 
 # OneSignal
 
-------
 
 [OneSignal](https://onesignal.com)
 
 go to the link and after Create an account and log in . Create New Android Project.
 after This You Should go to Android Studio and Write Some Codes 
 According The One Signal 
-DOCUMENTS (https://documentation.onesignal.com/docs/dashboard) (https://documentation.onesignal.com/docs/android-sdk-setup) and Install Your App ...
+[DOCUMENTS](https://documentation.onesignal.com/docs/dashboard) and [DOCUMENTS](https://documentation.onesignal.com/docs/android-sdk-setup) and Install Your App ...
 
 ONESIGNAL APP ID : https://onesignal.com/apps/8d478065-4efd-4901-bb73-ea9c90642831/settings#tab_keys_and_ids
 
