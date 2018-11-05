@@ -3,7 +3,7 @@
           xmlns:tools="http://schemas.android.com/tools"
           package="com.example.sanaebadi.pusheandonesignal">
 
-
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <!--The Pushe-->
 
